@@ -1,4 +1,10 @@
-Files contained in P1
+1. Folders contained in P1
  -sensor_node -
 The sensor node contains code to take samples from light and temperature sensor and send it to Pi 2 using tcp.
 
+
+2. Folders in Pi 2
+  -multicontainer server - tcp
+                         - webpage
+  
+The multicontainer server contains code for the webpage and the tcp receiver
