@@ -1,0 +1,4 @@
+Files contained in P1
+ -sensor_node -
+The sensor node contains code to take samples from light and temperature sensor and send it to Pi 2 using tcp.
+
