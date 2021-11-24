@@ -1,1 +1,6 @@
 
+Folders in Pi 2
+  -multicontainer server - tcp
+                         - webpage
+  
+The multicontainer server contains code for the webpage and the tcp receiver
